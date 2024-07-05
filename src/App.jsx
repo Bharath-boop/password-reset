@@ -6,7 +6,8 @@ import Forget from "./Components/forget";
 import Home from "./Components/Home";
 import CreateUser from "./Components/CreateUser";
 const App = () => {
-  const url = "http://localhost:8000";
+  // const url = "http://localhost:8000";
+  const url ="https://reset-password-be.onrender.com"
   return (
     <>
       <Routes>
